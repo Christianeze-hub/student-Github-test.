@@ -2,3 +2,6 @@ my name is Eze Christian Emeka, i am from Nigeria
 i am an MSC student studying Modern Software Development in SFEDU
 my interest are coding, reading and problem solving
 my hobbies are playing football, chess and video games
+
+
+[Read my bio](documents/bio.txt)
